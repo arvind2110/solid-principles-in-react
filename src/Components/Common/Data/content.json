@@ -1,0 +1,24 @@
+{
+    "SRP" : {
+        "title": "Single Responsibility Principle(SRP)",
+        "description": "In context of react, we need to make sure that every component must have to deal with only single responsibility."
+    },
+    "OCP" : {
+        "title": "Open Close Principle(OCP)",
+        "description": "In the context of React, we need to make sure that any component should be complete in itself, acomplish one task only and other components can use it for extension instead of updating the exisitng component."
+    },
+    "LSP" : {
+        "title": "Liskov Substitution Principle(LSP)",
+        "description": "In the context of React, we can make a new component using any existing component with extra features."
+    },
+    "ISP" : {
+        "title": "Interface Segregation Principle(ISP)",
+        "description": "In the context of React, we need to make sure that ew should pass only the information that is required to any component."
+    },
+    "DIP" : {
+        "title": "Dependency Inversion Principle(DIP)",
+        "description": "In the context of React, this principle can be applied to improve the design, maintainability and reusability of your components."
+    }
+}
+
+
